@@ -19,7 +19,7 @@ Fonctionnalités
 
     Clonez ce dépôt :
 
-    git clone https://github.com/votre-utilisateur/nom-du-repo.git
+    git clone https://github.com/Arthurglnr/Gestionnaire_log.git
 
     Ouvrez le projet dans Visual Studio 2022.
 
@@ -39,6 +39,7 @@ Fonctionnalités
         Quitter : Ferme l'application.
 
 #Aperçu
+![image](https://github.com/user-attachments/assets/da10d2c2-e4c3-4048-8cd0-e66dc91a62f0)
 
 #Avertissement
 
